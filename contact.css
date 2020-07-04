@@ -1,0 +1,82 @@
+.nav-link{
+    padding-left: 5px;
+}
+body{
+    background-color: #b2c9ed;
+    font-weight: 100;
+    font-family: 'Josefin Sans', sans-serif;;
+}
+#mainnav{
+    background-color: #113061;
+    font-size: 1.5rem;
+    font-weight: 100;
+    max-height: 60px;
+}
+#brand{
+    font-family: 'Pacifico', cursive;
+    color: #bec1c4;
+    font-size: xx-large;     
+    font-weight: 200;
+    
+}
+#mainnav .nav-link{
+    color: beige;
+
+}
+#mainnav .nav-link:hover{
+    color:  #bec1c4;
+}
+.dropdown-item{
+    background-color: #113061;
+    color: beige;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#hamburger{
+    background-image: url(https://img.icons8.com/pastel-glyph/2x/hamburger.png);
+    
+}
+#foot{
+    background-color: #113061;
+}
+#sec{
+    margin-top: 200px;
+    text-align: center;
+}
+#button{
+    background-color: #b2c9ed;
+    text-emphasis-color: white;
+}
+#input1{
+    background-color: #b2c9ed;
+    
+    border-color: black;
+    border-top: #b2c9ed;
+    border-left: #b2c9ed;
+    border-right: #b2c9ed;
+}
+#input2{
+    background-color: #b2c9ed;
+    
+    border-color: black;
+    border-top: #b2c9ed;
+    border-left: #b2c9ed;
+    border-right: #b2c9ed;
+}
+#input3{
+    background-color: #b2c9ed;
+    
+    border-color: black;
+    border-top: #b2c9ed;
+    border-left: #b2c9ed;
+    border-right: #b2c9ed;
+}
+#input4{
+    background-color: #b2c9ed;
+    
+    border-color: black;
+    border-top: #b2c9ed;
+    border-left: #b2c9ed;
+    border-right: #b2c9ed;
+}

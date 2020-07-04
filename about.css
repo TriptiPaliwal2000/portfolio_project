@@ -1,0 +1,86 @@
+.nav-link{
+    padding-left: 5px;
+}
+body{
+    background-color: #b2c9ed;
+    font-weight: 100;
+    font-family: 'Josefin Sans', sans-serif;;
+}
+#mainnav{
+    background-color: #113061;
+    font-size: 1.5rem;
+    font-weight: 100;
+    max-height: 60px;
+}
+#brand{
+    font-family: 'Pacifico', cursive;
+    color: #bec1c4;
+    font-size: xx-large;     
+    font-weight: 200;
+    
+}
+#mainnav .nav-link{
+    color: beige;
+
+}
+#mainnav .nav-link:hover{
+    color:  #bec1c4;
+}
+.dropdown-item{
+    background-color: #113061;
+    color: beige;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#hamburger{
+    background-image: url(https://img.icons8.com/pastel-glyph/2x/hamburger.png);
+    
+}
+#foot{
+    background-color: #113061;
+}
+#sec{
+    margin-top: 61px;
+}
+.h3{
+    font-family: 'Pacifico', cursive;
+    color: black;
+}
+#img1{
+    height: 700px;
+}
+#img3{
+    height: 700px;
+}
+#img2{
+    height: 700px;
+}
+#se1{
+    margin-top: 800px;
+}
+#heading{
+    font-family: 'Pacifico', cursive;
+    color: #113061;
+    font-size: 50px;     
+    font-weight: 200;
+    margin-top: 100px;
+}
+
+hr.style-three {
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+    }
+    hr.style-three:before {
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+    }
